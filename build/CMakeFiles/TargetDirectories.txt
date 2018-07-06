@@ -1,0 +1,13 @@
+/Users/chentao/webrtc-audio-processing-lib-ios/build/CMakeFiles/COMMON.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/CMakeFiles/ALL_BUILD.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/CMakeFiles/ZERO_CHECK.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/base/CMakeFiles/BASE.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/system_wrappers/CMakeFiles/SystemWrapper.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/common_audio/CMakeFiles/CommonAudio.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/common_video/CMakeFiles/CommonVideo.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/video_coding/CMakeFiles/VideoCoding.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/audio_coding/CMakeFiles/AudioCoding.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/audio_processing/CMakeFiles/AudioProcessing.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/audio_device/CMakeFiles/AudioDevice.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/video_capture/CMakeFiles/VideoCapture.dir
+/Users/chentao/webrtc-audio-processing-lib-ios/build/video_render/CMakeFiles/VideoRender.dir
